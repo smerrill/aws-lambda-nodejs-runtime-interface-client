@@ -1,5 +1,5 @@
 {
-  "name": "aws-lambda-ric",
+  "name": "@stevenmerrill/aws-lambda-ric",
   "version": "1.0.0",
   "description": "AWS Lambda Runtime Interface Client for NodeJs",
   "homepage": "https://github.com/aws/aws-lambda-nodejs-runtime-interface-client",
